@@ -12,7 +12,6 @@
     "tests"
   ],
   "dependencies": {
-    "ember": "billysbilling/bower-ember#master",
-    "ember-number-field": "billysbilling/ember-number-field#master"
+    "ember-number-field": "billysbilling/ember-number-field#~1.0.0"
   }
 }
