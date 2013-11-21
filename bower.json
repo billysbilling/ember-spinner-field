@@ -12,6 +12,6 @@
     "tests"
   ],
   "dependencies": {
-    "ember-number-field": "billysbilling/ember-number-field#~1.0.0"
+    "ember-number-field": "billysbilling/ember-number-field#>=1.0 <2.0"
   }
 }
