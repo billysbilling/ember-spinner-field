@@ -28,9 +28,11 @@ module.exports = require('ember-number-field').extend({
     keyDown: function(e) {
         var allowedKeys = [
             48, 49, 50, 51, 52, 52, 53, 54, 55, 56, 57, //Numbers
+            96, 97, 98, 99, 100, 101, 102, 103, 104, 105, //Numbers (keypad)
             188, //Comma
             189, //Minus
             190, //Period
+            110, //Period (keypad)
             13, //Enter
             46, //Delete
             8, //Backspace
